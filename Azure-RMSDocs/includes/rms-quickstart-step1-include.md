@@ -2,9 +2,9 @@
 
 雖然您擁有的訂閱可能會支援 Azure Rights Management，但這項服務預設是停用狀態。 若要啟動它，您可以使用 Office 365 系統管理中心或是 Azure 傳統入口網站：
 
--   如果您有包含 Azure Rights Management 的 Office 365 訂閱，或是所擁有的 Office 365 訂閱雖然沒有 Azure Rights Management，但您另外有 Azure RMS 進階版的訂閱：使用 Office 365 系統管理中心。
+-   如果您有包含 Azure Rights Management 的 Office 365 訂閱，或是所擁有的 Office 365 訂閱雖然沒有 Azure Rights Management，但您另外有 Azure RMS 進階版的訂閱：**使用 Office 365 系統管理中心**。
 
--   如果您沒有 Office 365 訂閱︰使用 Azure 傳統入口網站。
+-   如果您沒有 Office 365 訂閱︰**使用 Azure 傳統入口網站**。
 
 ![Azure 傳統入口網站](../media/AzRMS_Tutorial_1_Screenshots.png)
 
@@ -12,36 +12,36 @@
 
 1.  移至 [Office 365 入口網站](https://portal.office.com/) ，以您的工作或學校帳戶登入。
 
-2.  如果 Office 365 系統管理中心未自動顯示，請選取左上角的應用程式啟動器圖示，並選擇 [管理員]。 只有 Office 365 管理員才會看到 [管理員] 方塊。
+2.  如果 Office 365 系統管理中心未自動顯示，請選取左上角的應用程式啟動器圖示，並選擇 [管理員]。 只有 Office 365 管理員才會看到 **[管理員]** 方塊。
 
     > [!TIP]
     > 如需系統管理中心說明，請參閱 [關於 Office 365 系統管理中心 - 管理員說明](https://support.office.com/article/About-the-Office-365-admin-center-Admin-Help-58537702-d421-4d02-8141-e128e3703547)。
 
-3.  展開左窗格中的 [服務設定]。
+3.  展開左窗格中的 **[服務設定]**。
 
-4.  按一下 [Rights Management]。
+4.  按一下 **[Rights Management]**。
 
-5.  在 [RIGHTS MANAGEMENT] 頁面上，按一下 [管理]。
+5.  在 **[RIGHTS MANAGEMENT]** 頁面上，按一下 **[管理]**。
 
-6.  在 [RIGHTS MANAGEMENT] 頁面上，按一下 [啟動]。
+6.  在 **[RIGHTS MANAGEMENT]** 頁面上，按一下 **[啟動]**。
 
-7.  出現 [是否要啟動 Rights Management?]] 提示時，按一下 [啟動]。
+7.  出現 **[是否要啟動 Rights Management?]**] 提示時，按一下 **[啟動]**。
 
-現在，您應該會看到 [Rights Management 已啟動] 及用來停用的選項 (您可能需要手動重新整理頁面)。
+現在，您應該會看到 **[Rights Management 已啟動]** 及用來停用的選項 (您可能需要手動重新整理頁面)。
 
-此時請不要按 [進階功能]。 這會帶您到 Azure 傳統入口網站供您設定範本，但本教學課程不需要用到範本。 您反而可以關閉 Office 365 系統管理中心。
+此時請不要按 **[進階功能]**。 這會帶您到 Azure 傳統入口網站供您設定範本，但本教學課程不需要用到範本。 您反而可以關閉 Office 365 系統管理中心。
 
 #### 從 Azure 入口網站啟動 Rights Management
 
 1.  移至 [Azure 傳統入口網站](http://go.microsoft.com/fwlink/p/?LinkID=275081)並登入。
 
-2.  在左窗格中，按一下 [ACTIVE DIRECTORY]。
+2.  在左窗格中，按一下 **[ACTIVE DIRECTORY]**。
 
-3.  從 [active directory] 頁面中，按一下 [RIGHTS MANAGEMENT]。
+3.  從 **[active directory]** 頁面中，按一下 **[RIGHTS MANAGEMENT]**。
 
 4.  選取要為 [!INCLUDE[aad_rightsmanagement_2](../includes/aad_rightsmanagement_2_md.md)] 管理的目錄，按一下 [啟動]，然後確認您的動作。
 
-[RIGHTS MANAGEMENT 狀態] 現在應該會顯示為 [作用中] ，且 [啟動] 選項會取代為 [停用]。
+**[RIGHTS MANAGEMENT 狀態]** 現在應該會顯示為 **[作用中]** ，且 **[啟動]** 選項會取代為 **[停用]**。
 
 雖然您可以在入口網站設定 Rights Management 的其他選項，但本教學課程不需要用到這些選項，因此您可以關閉 Azure 傳統入口網站。
 
@@ -55,6 +55,6 @@
 |關於預設範本以及如何建立全新自訂範本   →|[設定 Azure Rights Management 的自訂範本](../deploy-use/create-template.md)|
 
 
-<!--HONumber=Apr16_HO3-->
+<!--HONumber=Jun16_HO4-->
 
 
